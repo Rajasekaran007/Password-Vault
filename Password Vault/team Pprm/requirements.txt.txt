@@ -1,0 +1,6 @@
+flask -1.1.1
+flask_mongoengine
+flask_session
+pillow -9.1.1
+email validate -1.1.2
+sendgrid-6.9.7
